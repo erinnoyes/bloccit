@@ -16,3 +16,19 @@
 
  @import "bootstrap-sprockets";
  @import "bootstrap";
+
+ .gravatar {
+   margin-top: 5px;
+   margin-bottom: 5px;
+   padding-right: 15px;
+ }
+
+.user-info {
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.nav-tabs {
+  font-size: 20px;
+  font-weight: bold;
+}
