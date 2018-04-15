@@ -52,5 +52,7 @@ gem 'bootstrap-sass'
  # Used for encrypting passwords
  gem 'bcrypt'
 
+gem 'figaro', '1.0'
+
 
  
